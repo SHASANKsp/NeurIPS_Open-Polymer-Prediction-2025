@@ -1,6 +1,8 @@
 # NeurIPS_Open-Polymer-Prediction-2025
-A Machine Learning Approach to Polymer Property Prediction: Interpretable Models  
-Detailed report: `Medium artical Link`
+A Machine Learning Approach to Polymer Property Prediction: Interpretable Models. Detailed report: `Medium artical Link`  
+<div align="center">
+<img src="summary.png" width="500" height="500" />
+</div>
 
 ## 1. Introduction
 Polymer informatics represents a critical intersection of materials science and machine learning, where quantitative structure-property relationships (QSPRs) are established to predict key material characteristics. In this technical exposition, I present a comprehensive methodology for predicting five fundamental polymer properties from SMILES representations:  
