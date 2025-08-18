@@ -1,5 +1,5 @@
 # NeurIPS_Open-Polymer-Prediction-2025
-A Machine Learning Approach to Polymer Property Prediction: Interpretable Models. Detailed report: `Medium artical Link`  
+A Machine Learning Approach to Polymer Property Prediction: Interpretable Models. Detailed report: [Medium](https://medium.com/@shasankashekharpadhi/fingerprinting-polymers-for-interpretable-machine-learning-f6b14383019d)
 <div align="center">
 <img src="summary.png" width="500" height="500" />
 </div>
